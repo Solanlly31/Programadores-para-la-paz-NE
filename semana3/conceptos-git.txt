@@ -1,0 +1,6 @@
+ * un repositorio es un espacio donde se guardan y se organizan archivos y cambios de un proyecto, especialmente en programacion
+ 
+ * un commit es un registroo guardado de los cambios realizados en un proyecto dentro de git
+
+ * un push es la accion de enviar los cambio de un proyecto desde tu computadoraq un repositorio en linea, como github.
+

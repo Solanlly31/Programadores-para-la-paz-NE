@@ -1,0 +1,1 @@
+  ES importante porque git permite guardar y controlar los cambio de un proyecto, recuperar versiones anteriores y facilitar el trabajo en equipo sin perder informacion
