@@ -1,0 +1,25 @@
+   preguntas: 1
+   
+   ¿que es un array en programacion?
+  
+  respuesta B una estructura que permite almacenar varios datos en una lista 
+  
+   pregunta2 
+ 
+   ¿que metodo http se utiliza normalmente para consultar datos existentes?
+   
+    respuesta B get se utiliza exclusivamente para solicitaro consultar
+     
+    pregunta 3
+  
+   ¿que metodo http se usa normalmente para agregar informacion nueva?
+
+    respuesta B el metodo post eata diseñado  especificamente para enviar datos 
+     
+   pregunta 4 
+
+   ¿ cual es el proposito de una api en una aplicacion?
+
+   respuesta B una api interfaz de programacion de aplicaciones por sus siglas en ingles actua como un puente o intermediario que permite que  dos softwares
+   
+   
