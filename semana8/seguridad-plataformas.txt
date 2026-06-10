@@ -1,0 +1,5 @@
+   1 aplicar el principio de minimo privilegio
+   2 proctecion estricta de credenciales y tokens
+   3 uso de tecnologias de codigos abiertos y auditorias
+   4 evitar permisos de archivos excesivos
+   5 implementacion de autenticacion de dos factores

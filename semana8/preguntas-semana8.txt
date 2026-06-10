@@ -1,0 +1,26 @@
+  
+   preguntas 1 
+  
+  ¿que es un sistema operativo?
+
+   respuesta B el software que administra el hardware y permite ejecutar programas
+  
+   preguntas 2
+
+   ¿cual de los siguientes ea un sistema operativo de codigo abierto?
+    
+    respuestas B  windows
+    
+    preguntas 3 
+
+   ¿que es la terminal en un sistema linux?
+
+   respuesta  B  una interfax que permite ejecutar comandos directamente en el sistema
+   
+   pregunta 4
+  
+  ¿ cual de las siguientes practicas mejora la seguridad digital?
+
+  respuesta B  usar contraseñas fuertes y proteger credenciales
+ 
+/
